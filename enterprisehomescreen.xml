@@ -10,7 +10,7 @@
     <link label="Ford DTP" pinned_activity="com.android.chrome"/>
   </tools>
   <passwords>
-    <admin attempts="0">nnwxn1s1W7FqckAUP6OaeFrBGl+z7e0O9zFJpRoqUNc=24nl4Z/DSKoP4Z2m7knGh6yXt4R8AOCkuyk8X0+JEO8=</admin>
+    <admin attempts="1">nnwxn1s1W7FqckAUP6OaeFrBGl+z7e0O9zFJpRoqUNc=24nl4Z/DSKoP4Z2m7knGh6yXt4R8AOCkuyk8X0+JEO8=</admin>
   </passwords>
   <user_options>
     <icon_settings>
@@ -33,7 +33,7 @@
     <fullscreen>0</fullscreen>
     <keyguard_camera_disabled>1</keyguard_camera_disabled>
     <kiosk_mode_enabled>0</kiosk_mode_enabled>
-    <title>Driveaway w/labels</title>
+    <title>DQS</title>
     <logging>
       <logging_disabled>1</logging_disabled>
     </logging>

@@ -3,6 +3,7 @@
     <application label="Chrome" package="com.android.chrome" activity="com.google.android.apps.chrome.Main"/>
     <application label="AutoVentive" package="com.greenegg.autovisionmobile" activity="com.greenegg.autovisionmobile.activities.LoadingActivity"/>
     <application label="POSGuys Label Print" package="com.cascadec" activity="com.cascadec.MainActivity"/>
+    <application label="Office" package="com.microsoft.office.officehubrow"
     <application label="Device Central" package="com.symbol.devicecentral" activity="com.symbol.devicecentral.MainActivity"/>
     <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
   </applications>
@@ -33,7 +34,7 @@
     <fullscreen>0</fullscreen>
     <keyguard_camera_disabled>1</keyguard_camera_disabled>
     <kiosk_mode_enabled>0</kiosk_mode_enabled>
-    <title>Driveaway w/labels</title>
+    <title>DQS</title>
     <logging>
       <logging_disabled>1</logging_disabled>
     </logging>

@@ -4,6 +4,7 @@
     <application label="AutoVentive" package="com.greenegg.autovisionmobile" activity="com.greenegg.autovisionmobile.activities.LoadingActivity"/>
     <application label="POSGuys Label Print" package="com.cascadec" activity="com.cascadec.MainActivity"/>
     <application label="Device Central" package="com.symbol.devicecentral" activity="com.symbol.devicecentral.MainActivity"/>
+    <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
   </applications>
   <tools>
     <link label="Ford DTP" pinned_activity="com.android.chrome"/>

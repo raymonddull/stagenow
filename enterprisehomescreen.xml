@@ -59,7 +59,6 @@
       <application package="com.displaylink.presenter"/>
       <application package="com.android.mms"/>
       <application package="com.symbol.fusionlogger"/>
-      <application package="com.android.vending"/>
       <application package="com.zebra.bluetooth.settings"/>
       <application package="com.symbol.fusionsettings"/>
       <application package="com.google.android.calendar"/>

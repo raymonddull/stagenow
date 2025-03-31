@@ -6,6 +6,7 @@
     <application label="Device Central" package="com.symbol.devicecentral" activity="com.symbol.devicecentral.MainActivity"/>
     <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
     <application label="Office" package="com.microsoft.office.officehubrow" activity="com.microsoft.office.officesuite.OfficeSuiteActivity"/>
+    <application label="VINS" package="com.dqs.VINS" activity="com.dqs.VINS.MainActivity"/>
   </applications>
   <tools>
     <link label="Ford DTP" pinned_activity="com.android.chrome"/>

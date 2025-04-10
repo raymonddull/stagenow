@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><config>
   <applications>
-    <link label="Ford DTP" pinned_activity="com.google.android.apps.chrome.Main"/>
+    <link label="Ford DTP" pinned_activity="com.android.chrome"/>
     <application label="Chrome" package="com.android.chrome" activity="com.google.android.apps.chrome.Main"/>
     <application label="AutoVentive" package="com.greenegg.autovisionmobile" activity="com.greenegg.autovisionmobile.activities.LoadingActivity"/>
     <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>

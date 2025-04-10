@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><config>
   <applications>
     <application label="Chrome" package="com.android.chrome" activity="com.google.android.apps.chrome.Main"/>
-    <link label="Ford DTP" pinned_activity="com.android.chrome"/>
-    <application label="AutoVentive" package="com.greenegg.autovisionmobile" activity="com.greenegg.autovisionmobile.activities.LoadingActivity"/>
+    <application label="Device Central" package="com.symbol.devicecentral" activity="com.symbol.devicecentral.MainActivity"/>
     <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
+    <application label="Office" package="com.microsoft.office.officehubrow" activity="com.microsoft.office.officesuite.OfficeSuiteActivity"/>
     <application label="VINS" package="com.dqs.VINS" activity="com.dqs.VINS.MainActivity"/>
   </applications>
   <tools>
@@ -27,7 +27,7 @@
     <auto_launch_enable>1</auto_launch_enable>
     <service_auto_launch_enable>1</service_auto_launch_enable>
     <keyguard_search_disabled>0</keyguard_search_disabled>
-    <system_settings_restricted>1</system_settings_restricted>
+    <system_settings_restricted>0</system_settings_restricted>
     <recent_apps_access_disabled>0</recent_apps_access_disabled>
     <icon_label_background_color>#00FFFFFF</icon_label_background_color>
     <fullscreen>0</fullscreen>
@@ -52,6 +52,7 @@
     <apps_disabled>
       <application package="com.google.android.googlequicksearchbox"/>
       <application package="com.symbol.activeedge"/>
+      <application package="com.greenegg.autovisionmobile"/>
       <application package="com.android.calculator2"/>
       <application package="org.codeaurora.snapcam"/>
       <application package="com.android.deskclock"/>
@@ -76,7 +77,8 @@
       <application package="com.android.soundrecorder"/>
       <application package="com.google.android.youtube"/>
     </apps_disabled>
-    <apps_enabled>   
+    <apps_enabled>
+      <application package="com.android.chrome"/>
     </apps_enabled>
   </preferences>
 </config>

@@ -5,6 +5,7 @@
     <application label="AutoVentive" package="com.greenegg.autovisionmobile" activity="com.greenegg.autovisionmobile.activities.LoadingActivity"/>
     <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
     <application label="VINS" package="com.dqs.VINS" activity="com.dqs.VINS.MainActivity"/>
+    <application label="LabelsTraceability" package="com.dqs.labelstraceability" activity="com.dqs.labelstraceability.MainActivity"/>
   </applications>
   <tools>
     <link label="Ford DTP" pinned_activity="com.android.chrome"/>
